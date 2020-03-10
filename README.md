@@ -1,16 +1,20 @@
 # Microsoft-professional-program-capstone-project-
 
+This project is about predicting the gross rent of counties. The dataset consists of following features:
+
 Data fields
 ID
 
 county_code - Unique identifier for each county
 state - Unique identifier for each state
 population - Total population
+
 HOUSING
 
 renter_occupied_households - Count of renter-occupied households
 pct_renter_occupied - Percent of occupied housing units that are renter-occupied
 rent_burden - Median gross rent as a percentage of household income
+
 ETHNICITY
 
 pct_white - Percent of population that is White alone and not Hispanic or Latino
@@ -21,6 +25,7 @@ pct_asian - Percent of population that is Asian alone and not Hispanic or Latino
 pct_nh_pi - Percent of population that is Native Hawaiian and Other Pacific Islander alone and not Hispanic or Latino
 pct_multiple - Percent of population that is two or more races and not Hispanic or Latino
 pct_other - Percent of population that is other race alone and not Hispanic or Latino
+
 ECONOMIC
 
 poverty_rate - Percent of the population with income in the past 12 months below the poverty level
@@ -47,6 +52,7 @@ motor_vehicle_crash_deaths_per_100k - Deaths by motor vehicle crash per 100,000 
 heart_disease_mortality_per_100k - Deaths from heart disease per 100,000 population
 pop_per_dentist - Population per dentist
 pop_per_primary_care_physician - Population per Primary Care Physician
+
 DEMOGRAPHIC
 
 pct_female - Percent of population that is female
